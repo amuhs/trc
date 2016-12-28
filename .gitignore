@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Additions
+trc-icon.ico
+trc-mac/.idea*
